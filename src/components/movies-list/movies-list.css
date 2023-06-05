@@ -1,0 +1,9 @@
+.movies-list {
+  padding-left: 16px;
+}
+
+@media screen and (min-width: 992px) {
+  .movies-list {
+    padding-left: 0;
+  }
+}
